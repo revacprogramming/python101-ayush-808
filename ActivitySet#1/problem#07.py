@@ -6,3 +6,4 @@ temp=text.find(":")
 end=text[temp+1:]
 number=float(end)
 print(number)
+
