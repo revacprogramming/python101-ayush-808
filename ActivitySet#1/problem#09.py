@@ -1,7 +1,7 @@
 # Lists
 
 filename = "dataset/romeo.txt"
-fname=input("Enter file name: ")
+fname=input("Enter the file name: ")
 fh=open(fname)
 lst=list()
 
